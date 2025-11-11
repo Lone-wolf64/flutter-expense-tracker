@@ -47,11 +47,11 @@ To run this project, you'll need to:
 
 ## Sign-Up page
 
-<img src="assets/screenshots/signup.png" alt="App Screenshot" width="300"/>
+<img src="assets/screenshots/signup.png" alt="App Screenshot" width="200"/>
 
 ## Login page
 
-<img src="assets/screenshots/login.png" alt="App Screenshot" width="300"/>
+<img src="assets/screenshots/login.png" alt="App Screenshot" width="200"/>
 
 ## Home page
 
